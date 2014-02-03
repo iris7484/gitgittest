@@ -1,0 +1,21 @@
+Welcome back! It's refresher time, yo. 
+
+Do these things:
+
+- Start styling the pages with a mobile first approach
+- Apply the grid after you've made some headway based on the layout.png image in img/
+	- NOTE! Not all of the container markup is there, you will need to add some clearfix divs.
+- Add a slideshow to the front page using glide.js:
+	- https://github.com/jedrzejchalubek/Glide.js
+- Replace the contact for with "Thanks!" after it is submitted
+
+
+Additional:
+
+- Create the work.html page yourself 
+	- You could create a grid-like gallery of the work images and use this plugin for a lightbox:
+		- http://cocopon.me/app/vanillabox
+- Apply some animations using animate.css (Google it)
+- Use a webfont
+- Add a favicon
+- Use fontawesome.io to add some social network links
